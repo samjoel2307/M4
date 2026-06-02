@@ -1,8 +1,8 @@
 # EX-16-LEFT-SHIFT-OPERATION
 
-## NAME: R . NITHISH AADITIYAA
+## NAME: B.SAM JOEL JOSHUA
 
-## REGISTER NO: 25011876 [ 212225040287 ]
+## REGISTER NO: 212225230242
 
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
